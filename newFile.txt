@@ -1,3 +1,5 @@
 Added valid change 1a
 
 Added valid change 2a
+
+Added final valid change 3a [Relase state]
