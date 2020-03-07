@@ -1,5 +1,13 @@
+
 Added valid change 1a
 
 Added valid change 2a
 
 Added final valid change 3a [Relase state]
+
+Added valid change 1b
+
+Added change with BUG 2b
+
+Added valid change in other place 3b
+
